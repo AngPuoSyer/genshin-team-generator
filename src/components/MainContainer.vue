@@ -109,11 +109,11 @@ const toggleGenerated = () => {
 <style >
 .bg-container {
   width: 100%;
-  height: 100vh;
+  height: 100%;
+  min-height: 100vh;
   background-image: url("../assets/bg.webp");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.747);
   box-shadow: inset 0 0 0 2000px rgba(49, 43, 71, 0.712);
   justify-content: center;
   align-items: center;

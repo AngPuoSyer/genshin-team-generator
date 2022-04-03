@@ -25,6 +25,8 @@ onBeforeMount(() => {
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
+  background-color: rgba(24, 4, 43, 0.747);
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
