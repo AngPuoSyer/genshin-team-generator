@@ -16,7 +16,7 @@
           <i class="fab fa-discord social-icon fa-2x"></i>
         </Popper>
         <a href="https://twitter.com/RiceyMix">
-        <i class="fab fa-twitter social-icon fa-2x"></i>
+          <i class="fab fa-twitter social-icon fa-2x"></i>
         </a>
         <a href="https://github.com/AngPuoSyer">
           <i class="fab fa-github social-icon fa-2x"></i>
@@ -83,6 +83,7 @@ import characterElements from '../data/characters.json'
 import { useSelectedCharactersStore } from '../stores/selectedCharactersStore';
 import CharacterRow from './CharacterRow.vue';
 import GeneratedModal from './GeneratedModal.vue';
+//@ts-ignore
 import Popper from "vue3-popper";
 
 

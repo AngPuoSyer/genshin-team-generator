@@ -13,6 +13,7 @@ const selectedCharacters = useSelectedCharactersStore()
 
 onBeforeMount(() => {
   for (const characterElement in characterElements) {
+    //@ts-ignore
     const charaElement: Array<CharacterType> = characterElements[characterElement].characters
     charaElement.forEach(chara => {
       selectedCharacters.selectCharacter(chara)
