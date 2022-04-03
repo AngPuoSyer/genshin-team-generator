@@ -1,0 +1,338 @@
+{
+  "pyro": {
+    "elementName": "Pyro",
+    "elementIcon": "Pyro",
+    "characters": [
+      {
+        "name": "Amber",
+        "imgPath": "amber",
+        "element": "Pyro",
+        "rarity": "four"
+      },
+      {
+        "name": "Bennett",
+        "imgPath": "bennett",
+        "element": "Pyro",
+        "rarity": "four"
+      },
+      {
+        "name": "Xiangling",
+        "imgPath": "xiangling",
+        "element": "Pyro",
+        "rarity": "four"
+      },
+      {
+        "name": "Diluc",
+        "imgPath": "diluc",
+        "element": "Pyro",
+        "rarity": "five"
+      },
+      {
+        "name": "Klee",
+        "imgPath": "klee",
+        "element": "Pyro",
+        "rarity": "five"
+      },
+      {
+        "name": "Xinyan",
+        "imgPath": "xinyan",
+        "element": "Pyro",
+        "rarity": "four"
+      },
+      {
+        "name": "Hu Tao",
+        "imgPath": "hutao",
+        "element": "Pyro",
+        "rarity": "five"
+      },
+      {
+        "name": "Yanfei",
+        "imgPath": "yanfei",
+        "element": "Pyro",
+        "rarity": "four"
+      },
+      {
+        "name": "Yoimiya",
+        "imgPath": "yoimiya",
+        "element": "Pyro",
+        "rarity": "five"
+      },
+      {
+        "name": "Thoma",
+        "imgPath": "Tohma",
+        "element": "Pyro",
+        "rarity": "four"
+      }
+    ]
+  },
+  "hydro": {
+    "elementName": "Hydro",
+    "elementIcon": "Hydro",
+    "characters": [
+      {
+        "name": "Barbara",
+        "imgPath": "barbara",
+        "element": "Hydro",
+        "rarity": "four"
+      },
+      {
+        "name": "Mona",
+        "imgPath": "mona",
+        "element": "Hydro",
+        "rarity": "five"
+      },
+      {
+        "name": "Xingqiu",
+        "imgPath": "xingqiu",
+        "element": "Hydro",
+        "rarity": "four"
+      },
+      {
+        "name": "Tartaglia",
+        "imgPath": "tartaglia",
+        "element": "Hydro",
+        "rarity": "five"
+      },
+      {
+        "name": "Sangonomiya Kokomi",
+        "imgPath": "sangonomiya-kokomi",
+        "element": "Hydro",
+        "rarity": "five"
+      },
+      {
+        "name": "Kamisato Ayato",
+        "imgPath": "kamisato-ayato",
+        "element": "Hydro",
+        "rarity": "five"
+      },
+      {
+        "name": "Yelan",
+        "imgPath": "yelan",
+        "element": "Hydro",
+        "rarity": "five"
+      }
+    ]
+  },
+  "electro": {
+    "elementName": "Electro",
+    "elementIcon": "Electro",
+    "characters": [
+      {
+        "name": "Keqing",
+        "imgPath": "keqing",
+        "element": "Electro",
+        "rarity": "five"
+      },
+      {
+        "name": "Traveler (Electro)",
+        "imgPath": "traveler",
+        "element": "Electro",
+        "rarity": "five"
+      },
+      {
+        "name": "Lisa",
+        "imgPath": "lisa",
+        "element": "Electro",
+        "rarity": "four"
+      },
+      {
+        "name": "Fischl",
+        "imgPath": "fischl",
+        "element": "Electro",
+        "rarity": "four"
+      },
+      {
+        "name": "Beidou",
+        "imgPath": "beidou",
+        "element": "Electro",
+        "rarity": "four"
+      },
+      {
+        "name": "Razor",
+        "imgPath": "razor",
+        "element": "Electro",
+        "rarity": "four"
+      },
+      {
+        "name": "Kujou Sara",
+        "imgPath": "kujou-sara",
+        "element": "Electro",
+        "rarity": "four"
+      },
+      {
+        "name": "Raiden Shogun",
+        "imgPath": "raiden-shogun",
+        "element": "Electro",
+        "rarity": "five"
+      },
+      {
+        "name": "Yae Miko",
+        "imgPath": "yae-miko",
+        "element": "Electro",
+        "rarity": "five"
+      },
+      {
+        "name": "Kuki Shinobu",
+        "imgPath": "kuki-shinobu",
+        "element": "Electro",
+        "rarity": "four"
+      }
+    ]
+  },
+  "cryo": {
+    "elementName": "Cryo",
+    "elementIcon": "Cryo",
+    "characters": [
+      {
+        "name": "Kaeya",
+        "imgPath": "kaeya",
+        "element": "Cryo",
+        "rarity": "four"
+      },
+      {
+        "name": "Chongyun",
+        "imgPath": "chongyun",
+        "element": "Cryo",
+        "rarity": "four"
+      },
+      {
+        "name": "Diona",
+        "imgPath": "diona",
+        "element": "Cryo",
+        "rarity": "four"
+      },
+      {
+        "name": "Ganyu",
+        "imgPath": "ganyu",
+        "element": "Cryo",
+        "rarity": "five"
+      },
+      {
+        "name": "Rosaria",
+        "imgPath": "rosaria",
+        "element": "Cryo",
+        "rarity": "four"
+      },
+      {
+        "name": "Eula",
+        "imgPath": "eula",
+        "element": "Cryo",
+        "rarity": "five"
+      },
+      {
+        "name": "Aloy",
+        "imgPath": "aloy",
+        "element": "Cryo",
+        "rarity": "collab"
+      },
+      {
+        "name": "Shenhe",
+        "imgPath": "shenhe",
+        "element": "Cryo",
+        "rarity": "five"
+      }
+    ]
+  },
+  "anemo": {
+    "elementName": "Anemo",
+    "elementIcon": "Anemo",
+    "characters": [
+      {
+        "name": "Traveler (Anemo)",
+        "imgPath": "traveler",
+        "element": "Anemo",
+        "rarity": "five"
+      },
+      {
+        "name": "Jean",
+        "imgPath": "jean",
+        "element": "Anemo",
+        "rarity": "five"
+      },
+      {
+        "name": "Sucrose",
+        "imgPath": "sucrose",
+        "element": "Anemo",
+        "rarity": "four"
+      },
+      {
+        "name": "Venti",
+        "imgPath": "venti",
+        "element": "Anemo",
+        "rarity": "five"
+      },
+      {
+        "name": "Xiao",
+        "imgPath": "xiao",
+        "element": "Anemo",
+        "rarity": "five"
+      },
+      {
+        "name": "Kaedehara Kazuha",
+        "imgPath": "kaedehara-kazuha",
+        "element": "Anemo",
+        "rarity": "five"
+      },
+      {
+        "name": "Sayu",
+        "imgPath": "sayu",
+        "element": "Anemo",
+        "rarity": "four"
+      }
+    ]
+  },
+  "geo": {
+    "elementName": "Geo",
+    "elementIcon": "Geo",
+    "characters": [
+      {
+        "name": "Traveler (Geo)",
+        "imgPath": "traveler",
+        "element": "Geo",
+        "rarity": "five"
+      },
+      {
+        "name": "Noelle",
+        "imgPath": "noelle",
+        "element": "Geo",
+        "rarity": "four"
+      },
+      {
+        "name": "Ningguang",
+        "imgPath": "ningguang",
+        "element": "Geo",
+        "rarity": "four"
+      },
+      {
+        "name": "Zhongli",
+        "imgPath": "zhongli",
+        "element": "Geo",
+        "rarity": "five"
+      },
+      {
+        "name": "Albedo",
+        "imgPath": "albedo",
+        "element": "Geo",
+        "rarity": "five"
+      },
+      {
+        "name": "Arataki Itto",
+        "imgPath": "arataki-itto",
+        "element": "Geo",
+        "rarity": "five"
+      },
+      {
+        "name": "Gorou",
+        "imgPath": "Gorou",
+        "element": "Geo",
+        "rarity": "four"
+      },
+      {
+        "name": "Yun Jin",
+        "imgPath": "yun-jin",
+        "element": "Geo",
+        "rarity": "four"
+      }
+    ]
+  }
+}
