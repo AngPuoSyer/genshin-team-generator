@@ -170,4 +170,18 @@ watch(selected, select => {
     height: 1.5rem;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .base-chara-container {
+    width: 2.5rem;
+    min-width: 2rem;
+  }
+
+  .chara-bottom {
+    font-size: 0.5rem;
+    line-height: 0.7rem;
+    font-weight: 600;
+    height: 1.5rem;
+  }
+}
 </style>

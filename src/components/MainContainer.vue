@@ -298,4 +298,22 @@ const toggleGenerated = () => {
     padding: 10px;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .header-row {
+    font-size: 0.5rem;
+  }
+
+  .social-icon {
+    margin-right: 0.7rem;
+  }
+
+  .social-media p {
+    font-size: 0.7rem;
+  }
+
+  .header {
+    font-size: 0.7rem;
+  }
+}
 </style>
