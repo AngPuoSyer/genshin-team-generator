@@ -158,4 +158,10 @@ watch(selected, select => {
     color: rgb(65, 9, 110);
   }
 }
+
+@media only screen and (max-width: 720px) {
+  .base-chara-container {
+    width: 3em;
+  }
+}
 </style>
