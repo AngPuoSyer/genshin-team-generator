@@ -219,6 +219,12 @@
         "element": "Cryo",
         "rarity": "five"
       },
+	  {
+        "name": "Kamisato Ayaka",
+        "imgPath": "kamisato-ayaka",
+        "element": "Hydro",
+        "rarity": "five"
+      },
       {
         "name": "Aloy",
         "imgPath": "aloy",
