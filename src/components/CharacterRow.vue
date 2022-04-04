@@ -2,7 +2,9 @@
   <div class="row-container">
     <div class="element-container" @click="selected = !selected">
       <h1 class="element-text">{{ elementCharacters.elementName }}</h1>
-      <img :src="elementIconPath" class="element-icon" :class="{ selected }" />
+      <div class="element-icon-container">
+        <img :src="elementIconPath" class="element-icon" :class="{ selected }" />
+      </div>
     </div>
     <div class="chara-row">
       <CharacterCard
@@ -46,6 +48,10 @@ const elementIconPath = computed(() => {
 }
 
 .element-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   min-width: 19rem;
 }
 
@@ -59,6 +65,12 @@ const elementIconPath = computed(() => {
   transition: filter 0.2s ease-in-out;
   opacity: 50%;
   transition: opacity 0.2s ease-in-out;
+}
+
+.element-icon-container {
+  margin-top: 2px;
+  width: 10rem;
+  height: 10rem;
 }
 
 .selected {
@@ -87,6 +99,7 @@ const elementIconPath = computed(() => {
 
   .element-container {
     min-width: 17rem;
+    font-size: 0.5rem;
   }
 }
 

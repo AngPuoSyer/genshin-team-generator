@@ -284,5 +284,18 @@ const toggleGenerated = () => {
   .social-icon {
     font-size: 1rem;
   }
+
+  .team-form {
+    font-size: 0.7rem;
+  }
+
+  .dropdown select {
+    width: 5rem;
+  }
+
+  .generate {
+    font-size: 0.7rem;
+    padding: 10px;
+  }
 }
 </style>
