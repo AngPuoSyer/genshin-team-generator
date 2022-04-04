@@ -86,7 +86,7 @@ const elementIconPath = computed(() => {
   }
 
   .element-container {
-    min-width: 19rem;
+    min-width: 17rem;
   }
 }
 
@@ -97,7 +97,7 @@ const elementIconPath = computed(() => {
   }
 
   .element-container {
-    min-width: 15rem;
+    min-width: 10rem;
   }
 }
 </style>

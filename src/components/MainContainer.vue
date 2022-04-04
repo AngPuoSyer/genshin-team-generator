@@ -139,6 +139,7 @@ const toggleGenerated = () => {
 .header-row {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .social-media {
@@ -273,6 +274,15 @@ const toggleGenerated = () => {
     left: 0;
     width: 30%;
     height: 30%;
+  }
+
+  .header {
+    font-weight: 2rem;
+    font-size: 2vh;
+  }
+
+  .social-icon {
+    font-size: 1rem;
   }
 }
 </style>

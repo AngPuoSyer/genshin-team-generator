@@ -29,9 +29,8 @@ const selectedCharacters = useSelectedCharactersStore()
 
 const imagePath = computed(() => {
   if (props.charaName?.includes('Traveler')) return new URL(`../assets/traveler.png`, import.meta.url).href
-  const imgUrl = new URL(`../assets/${props.element}/${props.imgPath}.png`,
-    import.meta.url)
-  return imgUrl.href
+  return new URL(`../assets/${props.element}/${props.imgPath}.png`,
+    import.meta.url).href
 })
 
 const elementIconPath = computed(() => {

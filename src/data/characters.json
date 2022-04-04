@@ -59,7 +59,7 @@
       },
       {
         "name": "Thoma",
-        "imgPath": "Tohma",
+        "imgPath": "thoma",
         "element": "Pyro",
         "rarity": "four"
       }
@@ -323,7 +323,7 @@
       },
       {
         "name": "Gorou",
-        "imgPath": "Gorou",
+        "imgPath": "gorou",
         "element": "Geo",
         "rarity": "four"
       },
