@@ -155,4 +155,20 @@ let { selectedCharacters: selections } = storeToRefs(selectedCharacters)
 .card-enter-leave-active {
   position: absolute;
 }
+
+@media only screen and (max-width: 700px) {
+  .main-modal-container {
+    padding: 2rem;
+  }
+
+  .modal-button-container div {
+    padding: 15px 0px;
+    min-width: 100px;
+  }
+
+  .team-text {
+    margin-right: 1rem;
+    font-size: 1rem;
+  }
+}
 </style>

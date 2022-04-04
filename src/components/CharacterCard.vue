@@ -154,14 +154,20 @@ watch(selected, select => {
   .chara-bottom {
     font-size: 0.7rem;
     line-height: 1rem;
-    font-weight: 600;
-    color: rgb(65, 9, 110);
   }
 }
 
 @media only screen and (max-width: 720px) {
   .base-chara-container {
-    width: 3em;
+    width: 3.2rem;
+    min-width: 2rem;
+  }
+
+  .chara-bottom {
+    font-size: 0.5rem;
+    line-height: 0.7rem;
+    font-weight: 600;
+    height: 1.5rem;
   }
 }
 </style>
